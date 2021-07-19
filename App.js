@@ -8,8 +8,8 @@ import PaymentScreen from "./src/screens/PaymentScreen";
 
 export default function App() {
   return (
-    <LoginScreen />
+    // <LoginScreen />
     // <OverviewScreen />
-    // <PaymentScreen />
+    <PaymentScreen />
   );
 }

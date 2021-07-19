@@ -72,7 +72,7 @@ export default function OverviewScreen(){
               }}
             >
               <Image
-                source={require("../../assets/five.jpeg")}
+                source={require("../../assets/you.jpeg")}
                 style={{ width: 80, height: 80, borderRadius: 80 }}
               />
             </View>

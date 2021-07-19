@@ -182,7 +182,7 @@ function RoundComponent(){
       >
         <View style={{ position: "absolute", flex: 1, top: -30, zIndex: 10 }}>
           <Image
-            source={require("../../assets/five.jpeg")}
+            source={require("../../assets/you.jpeg")}
             style={{
               width: 50,
               height: 50,
@@ -194,7 +194,7 @@ function RoundComponent(){
         </View>
         <View style={{ position: "absolute", flex: 1, left: -30, zIndex: 10 }}>
           <Image
-            source={require("../../assets/five.jpeg")}
+            source={require("../../assets/you.jpeg")}
             style={{
               width: 50,
               height: 50,
@@ -206,7 +206,7 @@ function RoundComponent(){
         </View>
         <View style={{ position: "absolute", flex: 1, right: -30, zIndex: 10 }}>
           <Image
-            source={require("../../assets/five.jpeg")}
+            source={require("../../assets/you.jpeg")}
             style={{
               width: 50,
               height: 50,
@@ -226,7 +226,7 @@ function RoundComponent(){
           }}
         >
           <Image
-            source={require("../../assets/five.jpeg")}
+            source={require("../../assets/you.jpeg")}
             style={{
               width: 50,
               height: 50,
@@ -246,7 +246,7 @@ function RoundComponent(){
           }}
         >
           <Image
-            source={require("../../assets/five.jpeg")}
+            source={require("../../assets/you.jpeg")}
             style={{
               width: 50,
               height: 50,
@@ -291,7 +291,7 @@ function RoundComponent(){
               }}
             >
               <Image
-                source={require("../../assets/five.jpeg")}
+                source={require("../../assets/you.jpeg")}
                 style={{
                   width: width - 280,
                   height: width - 280,

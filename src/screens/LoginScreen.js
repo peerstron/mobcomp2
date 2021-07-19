@@ -26,7 +26,7 @@ export default function LoginScreen() {
             paddingHorizontal: 20,
             paddingVertical: 17,
 
-            shadowColor: "#d6d6d6",
+            shadowColor: "#d6d6d2",
             shadowOffset: {
               width: 0,
               height: 9,
@@ -50,8 +50,8 @@ export default function LoginScreen() {
             </View>
             <View style={{ flex: 1, marginLeft: 10 }}>
               <TextInput
-                placeholder="Username@gmail.com"
-                value={"Username@gmail.com"}
+                placeholder="username@email.com"
+                value={""}
                 style={{
                   fontSize: 17,
                 }}
@@ -69,7 +69,7 @@ export default function LoginScreen() {
             paddingHorizontal: 20,
             paddingVertical: 17,
 
-            shadowColor: "#d6d6d6",
+            shadowColor: "#d6d6d2",
             shadowOffset: {
               width: 0,
               height: 9,
@@ -94,8 +94,8 @@ export default function LoginScreen() {
             <View style={{ flex: 1, marginLeft: 10 }}>
               <TextInput
                 secureTextEntry
-                placeholder="* * * * *"
-                value={"Hello world"}
+                placeholder="*******"
+                value={""}
                 style={{
                   fontSize: 17,
                 }}
